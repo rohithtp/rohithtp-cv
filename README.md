@@ -2,7 +2,7 @@
 
 **Principal Application Engineer | AI Infrastructure & Enterprise Integration Specialist**
 
-Bengaluru, Karnataka, India | [rohithtp@gmail.com](mailto:rohithtp@gmail.com) | [linkedin.com/in/rohithtp | 9945734341](https://www.google.com/search?q=https://linkedin.com/in/rohithtp)
+Bengaluru, Karnataka, India | [rohithtp@gmail.com](mailto:rohithtp@gmail.com) | [linkedin.com/in/rohithtp](https://linkedin.com/in/rohithtp) | 9945734341
 
 ***
 
