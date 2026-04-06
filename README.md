@@ -1,5 +1,3 @@
-
-
 **Principal Application Engineer | AI Infrastructure & Enterprise Integration Specialist**
 
 Bengaluru, Karnataka, India | [rohithtp@gmail.com](mailto:rohithtp@gmail.com) | [linkedin.com/in/rohithtp](https://linkedin.com/in/rohithtp) | 9945734341
@@ -28,7 +26,7 @@ Strategic Technical Leader and Architect with 20 years of experience building re
 *October 2020 – Present*
 
 - **AI Platform Infrastructure:** Architected and implemented an internal **MCP-based platform** using **FastAPI**, creating a standardized layer to expose isolated enterprise data as documented APIs for **Oracle OCI AI**.
-- **Agentic DevEx Leadership:** Established the internal standard for **Agentic Development**, utilizing **Cline** and **Aider** via custom **MCP servers** to enable secure, real-time AI reasoning over proprietary Oracle metadata, improving developer velocity by **[33%]**.
+- **Agentic DevEx Leadership:** Established the internal standard for **Agentic Development**, utilizing **Cline** and **Aider** via custom **MCP servers** to enable secure, real-time AI reasoning over proprietary Oracle metadata, improving developer velocity by **[25%]**.
 - **Enterprise Data Grounding:** Architected a closed-loop grounding architecture that eliminated model hallucinations by anchoring **Oracle OCI AI** responses in verified enterprise data objects, increasing response accuracy by **[25%]**.
 - **Extension Strategy:** Led and owned side-by-side extension architecture for HCM/CX modules using **Redwood Page Development**, maintaining a "Clean Core" by decoupling custom UI from standard business logic.
 - **Innovation Leadership:** Recognized as runner-up in the **2020 DevSecOps Hackathon** for a chat-based interface concept (precursor to **OpenClaw**) that initiated system builds and resolved tickets via remote interaction.
@@ -79,14 +77,3 @@ Strategic Technical Leader and Architect with 20 years of experience building re
 | **Problem**  | **Hallucinations in AI**  | Identified risk of ungrounded LLM outputs in enterprise environments.                                                                |
 | **Learning** | **MCP & Agentic Mastery** | Rapidly adopted **Model Context Protocol**, **Cline**, and **Aider** to create "Connective Tissue" for private data.                 |
 | **Delivery** | **Grounded Intelligence** | Delivered a secure platform that improved accuracy via a structured feedback loop, replacing hallucinations with grounded responses. |
-
-***
-
-### **CAREER TIMELINE (2005 – 2026)**
-
-| **Period**      | **Role & Organization**               | **Core Focus & Technological Milestone**                                           |
-| --------------- | ------------------------------------- | ---------------------------------------------------------------------------------- |
-| **2024 – 2026** | **Principal App Engineer (Oracle)**   | **AI Orchestration:** Implemented **MCP**, **Cline**, and **Aider** for OCI AI.    |
-| **2020 – 2023** | **Principal App Engineer (Oracle)**   | **Cloud Innovation:** Specialized in **Oracle Redwood** & Side-by-Side extensions. |
-| **2014 – 2020** | **Senior Software Engineer (Oracle)** | **Data Evolution:** Led **TDD-driven** conversion to analytical reporting.         |
-| **2005 – 2014** | **Architect/Lead Roles**              | **Strategic Scale:** Focused on **Java/J2EE**, **BDD**, and Metadata Frameworks.   |
