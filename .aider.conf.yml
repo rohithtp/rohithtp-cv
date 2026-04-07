@@ -1,3 +1,45 @@
-model: openrouter/nvidia/nemotron-3-super-120b-a12b:free
+##########################################################
+# Aider Configuration for Jemi
+# Using a multi-model Architect/Editor workflow
+# This setup optimizes for high-quality reasoning and precise code edits
+##########################################################
+
+# 1. THE ARCHITECT (The "Brain")
+# Primary model for planning, analysis and generating implementation strategies
+# Qwen 2.5 72B: Excellent reasoning, handles complex problems, large context window
+model: openrouter/qwen/qwen2.5-72b-instruct:free
+
+# 2. THE EDITOR (The "Hands")
+# Secondary model dedicated to applying code changes with precision
+# Nemotron 70B: Specialized for code generation and following detailed instructions
+editor-model: openrouter/nvidia/llama-3.1-nemotron-70b-instruct:free
+
+# 3. WORKFLOW SETTINGS
+# Enable architect mode: Uses a two-phase approach (plan→execute) for complex tasks
+architect: true           
+# Repository context size sent to models (tokens). Higher = more context but slower/costlier
+# Current: 1024 tokens (conservative). Increase for larger repos, decrease for faster/cheaper runs
+map-tokens: 1024          
+# Automatically suggest shell commands for system operations and file management
+suggest-shell-commands: true
+
+# 4. CHAT SETTINGS
+# Lightweight model for general questions and quick interactions (/chat command)
+# Gemma 2 9B: Fast, efficient for conversational queries without heavy reasoning
+chat-model: openrouter/google/gemma-2-9b-it:free
+
+# 5. GIT SETTINGS
+# Enable automatic commits after each successful code change (requires clean git state)
 auto-commits: true
+# Prevent automatic commits if there are uncommitted user changes (safety guard)
+dirty-commits: false      
+
+# 6. INTERFACE & UX
+# Apply dark theme for IDE appearance
+dark-mode: true
+# Syntax highlighting theme: monokai (vibrant colors, good contrast)
+code-theme: monokai
+# Display side-by-side diffs of changes before applying them
+show-diffs: true
+# Respect .gitignore rules when processing files (prevents processing ignored files)
 gitignore: true
