@@ -1,3 +1,5 @@
+The name "Pydantic" is a portmanteau of "Py" and "pedantic." The "Py" part indicates that the library is associated with Python, and "pedantic" refers to the library's meticulous approach to data validation and type enforcement.
+
 As of April 2026, Pydantic has continued to evolve as the industry standard for Python data validation. Below are the current version details and the state of the ecosystem.
 
 ---
