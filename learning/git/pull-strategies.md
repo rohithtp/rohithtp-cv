@@ -43,4 +43,6 @@ git config --global pull.rebase false
 
 **Why `--global`?** This saves the setting for every project on your computer so you don't have to see this wall of text ever again. After running that, try your `git pull` again, and it should work perfectly.
 
-Which of these sounds more like the workflow you're looking for—keeping every merge detail or having a clean, straight line of commits?
+
+### Reference
+- [code and ollama](https://ollama.com/blog/codex)
