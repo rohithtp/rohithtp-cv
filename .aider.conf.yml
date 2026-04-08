@@ -7,7 +7,7 @@
 # 1. THE ARCHITECT (The "Brain")
 # Primary model for planning, analysis and generating implementation strategies
 # Qwen 2.5 72B: Excellent reasoning, handles complex problems, large context window
-model: openrouter/qwen/qwen2.5-72b-instruct:free
+model: openrouter/meta-llama/llama-3.2-3b-instruct:free
 
 # 2. THE EDITOR (The "Hands")
 # Secondary model dedicated to applying code changes with precision
@@ -26,7 +26,7 @@ suggest-shell-commands: true
 # 4. CHAT SETTINGS
 # Lightweight model for general questions and quick interactions (/chat command)
 # Gemma 2 9B: Fast, efficient for conversational queries without heavy reasoning
-chat-model: openrouter/google/gemma-2-9b-it:free
+# chat-model: openrouter/google/gemma-4-26b-a4b-it:free
 
 # 5. GIT SETTINGS
 # Enable automatic commits after each successful code change (requires clean git state)
