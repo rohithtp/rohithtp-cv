@@ -1,3 +1,4 @@
 aider-chat
 pipdeptree
 safety
+litellm==1.83.0
