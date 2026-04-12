@@ -5,7 +5,7 @@ safety
 
 # --- Security Fixes & Pinned Transitive Dependencies ---
 # These are pinned to resolve vulnerabilities (Snyk/Security audits)
-aiohttp>=3.8.5
+aiohttp>=3.13.4
 authlib>=1.6.9
 certifi>=2024.7.4
 cryptography>=46.0.7
