@@ -1,79 +1,121 @@
-**Principal Application Engineer | AI Infrastructure & Enterprise Integration Specialist**
 
-Bengaluru, Karnataka, India | [rohithtp@gmail.com](mailto:rohithtp@gmail.com) | [linkedin.com/in/rohithtp](https://linkedin.com/in/rohithtp) | 9945734341
+# **Principal Application Engineer | AI Infrastructure & Enterprise Integration**
 
-***
+Bengaluru, Karnataka, India
+📧 [rohithtp@gmail.com](mailto:rohithtp@gmail.com) | 🔗 [linkedin.com/in/rohithtp](https://www.linkedin.com/in/rohithtp/) | 📞 9945734341
 
-### **TECHNICAL LEADERSHIP PROFILE**
+---
 
-Strategic Technical Leader and Architect with 20 years of experience building resilient, high-scale enterprise cloud applications. Expert in the **Java/J2EE** ecosystem and modern metadata-driven frameworks like **Oracle Redwood**. Recently pioneered the architectural transition to an **AI-powered Unified IDE platform**, implementing **Model Context Protocol (MCP)** using **FastAPI** to securely bridge isolated enterprise data silos with **Oracle OCI AI** models. Proven track record in maintaining a **"Clean Core"** while building side-by-side extensions and transitioning legacy systems to advanced analytical reporting architectures.
+## **TECHNICAL LEADERSHIP PROFILE**
 
-***
+Strategic Technical Leader and Architect with 20+ years of experience building scalable enterprise cloud applications and driving platform transformations.
 
-### **TECHNICAL EXPERTISE**
+Expert in **Java/J2EE** and **metadata-driven architectures (Oracle Redwood)**, with a strong focus on **AI infrastructure and agentic development systems**.
 
-- **AI & Agentic Orchestration:** Model Context Protocol (MCP), **Cline**, **Aider**, OpenAI **Codex** (Multi-agent Worktrees), AI-Agent Workflows, Oracle OCI AI Optimization, Conversational UX Design.
-- **Backend & Security:** Java/J2EE, FastAPI, SQL, Microservices, Oracle IDCS (Identity Cloud Service) for Secure LLM Access.
-- **Architecture:** Clean Core Strategy, Side-by-Side Extensions, Metadata-Driven UI (Oracle Redwood), Analytical Modeling, **Agent-Ready Codebases**.
-- **Methodologies:** Test-Driven Development (TDD), Behavior-Driven Development (BDD), DevSecOps, Prompt Engineering for Enterprise Data.
+Architected an **AI-powered Unified IDE platform**, leveraging **Model Context Protocol (MCP)** and **FastAPI** to securely connect enterprise data with OCI AI models—enabling **agent-driven development, grounded AI adoption, and measurable productivity gains**.
 
-***
+Proven track record in delivering **Clean Core-compliant architectures**, building scalable extensions, and transforming legacy systems into **AI-ready, high-performance platforms**.
 
-### **PROFESSIONAL EXPERIENCE**
+---
 
-**ORACLE** | **Principal Application Engineer** | Bengaluru, India
+## **TECHNICAL EXPERTISE**
 
-*October 2020 – Present*
+**AI & Agentic Systems**
 
-- **AI Platform Infrastructure:** Architected and implemented an internal **MCP-based platform** using **FastAPI**, creating a standardized layer to expose isolated enterprise data as documented APIs for **Oracle OCI AI**.
-- **Agentic DevEx Leadership:** Established the internal standard for **Agentic Development**, utilizing **Cline** and **Aider** via custom **MCP servers** to enable secure, real-time AI reasoning over proprietary Oracle metadata, improving developer velocity by **[25%]**.
-- **Enterprise Data Grounding:** Architected a closed-loop grounding architecture that eliminated model hallucinations by anchoring **Oracle OCI AI** responses in verified enterprise data objects, increasing response accuracy by **[25%]**.
-- **Extension Strategy:** Led and owned side-by-side extension architecture for HCM/CX modules using **Redwood Page Development**, maintaining a "Clean Core" by decoupling custom UI from standard business logic.
-- **Innovation Leadership:** Recognized as runner-up in the **2020 DevSecOps Hackathon** for a chat-based interface concept (precursor to **OpenClaw**) that initiated system builds and resolved tickets via remote interaction.
+* Model Context Protocol (MCP), Agentic Workflows
+* Cline, Aider, OpenAI Codex (multi-agent workflows)
+* Enterprise LLM grounding & hallucination mitigation
+* Conversational UX for enterprise systems
 
-**ORACLE** | **Senior Software Engineer** | Bengaluru, India
+**Backend & Platform Engineering**
 
-*January 2014 – September 2020*
+* Java/J2EE, FastAPI, Microservices
+* SQL, Distributed Systems
+* Secure AI integration using Oracle IDCS
 
-- **Architectural Transformation:** Led high-impact initiative to convert reporting structures from legacy transactional models to modern **analytical reporting architectures** using **TDD**, reducing data latency by **[72%]**.
-- **Integration Excellence:** Owned and supported complex intra-product integrations, ensuring seamless data flow across enterprise modules and maintaining 99.9% uptime for data synchronization services.
+**Architecture & Design**
 
-**TATA CONSULTANCY SERVICES** | **Technical Architect / IT Analyst** | Bangalore, India
+* Clean Core Strategy, Side-by-Side Extensions
+* Metadata-driven UI (Oracle Redwood)
+* Analytical data modeling & reporting systems
+* Agent-ready enterprise architectures
 
-*July 2010 – January 2014*
+**Engineering Practices**
 
-- **Strategic Consulting:** Provided architectural guidance for high-scale **Java/J2EE** projects and Big Data Proof of Concept (POC) appliances for global insurance clients.
-- **Full-Stack Ownership:** Managed design and development of Transfer Unit operations and Phase 2 implementation of Auto-Enrolment systems for private insurance sectors.
+* Test-Driven Development (TDD), Behavior-Driven Development (BDD)
+* DevSecOps
+* Prompt Engineering for enterprise AI
 
-**MINDTREE LTD** | **Module Lead / Associate Consultant** | Bangalore, India
+---
 
-*February 2007 – July 2010*
+## **PROFESSIONAL EXPERIENCE**
 
-- **Framework Governance:** Managed and owned custom enterprise frameworks to standardize development within political and trade credit insurance domains.
+### **ORACLE**
 
-**DIMENSIONS** | **Software Engineer** | Thiruvananthapuram, India
+**Principal Application Engineer** | Bengaluru, India
+*Oct 2020 – Present*
 
-*December 2005 – February 2007*
+* Accelerated feature delivery by **~25%** by embedding AI agents into enterprise development workflows
+* Enabled **trustworthy, deterministic AI outputs** by grounding responses in verified enterprise data sources
+* Built an **MCP-based platform** exposing core enterprise data domains as secure APIs, enabling AI-driven workflows across **CX systems (200+ active users across multiple modules)**
+* Rolled out **multi-agent AI coding workflows** across CX engineering teams (**200+ engineers**), improving engineering velocity and reducing manual effort
+* Redesigned data architecture to enable **high-performance analytical queries**, significantly improving system responsiveness
+* Ensured **upgrade-safe customization** by implementing **Clean Core-aligned side-by-side extension architecture**
 
-- **Foundational Metadata:** Developed a framework using **object serialization** to store business logic in flat databases for medium-scale custom ERP solutions.
-- **BDD Frameworks:** Key contributor in building **Behavior Driven Development (BDD)** frameworks driven by customer metadata.
+---
 
-***
+### **Enterprise AI Transformation Snapshot**
 
-### **EDUCATION**
+* **Problem:** Enterprise AI systems suffered from hallucinations due to lack of grounded data
+* **Approach:** Built an MCP-based integration layer enabling secure, structured access to enterprise data for AI systems
+* **Outcome:** Delivered a grounded AI platform improving response accuracy and enabling safe enterprise AI adoption
 
-- **Master of Science (MS), Software Systems** | Birla Institute of Technology and Science (BITS), Pilani
+---
 
-  - *Thesis: Reimagining Enterprise Software Development with an AI-Powered Unified IDE Platform.*
+### **ORACLE**
 
-- **Bachelor of Technology (B.Tech), Electronics/Telecommunications** | Mahatma Gandhi University
+**Senior Software Engineer** | Bengaluru, India
+*Jan 2014 – Sep 2020*
 
-***
+* Led transition from transactional reporting to **analytical architectures**, reducing data latency by **~72%**
+* Owned critical **cross-product integrations**, maintaining **99.9% uptime** for enterprise data synchronization
 
-### **LEARNING & DELIVERY SHOWCASE**
+---
 
-| **Stage**    | **Activity**              | **Capability Demonstrated**                                                                                                          |
-| ------------ | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| **Problem**  | **Hallucinations in AI**  | Identified risk of ungrounded LLM outputs in enterprise environments.                                                                |
-| **Learning** | **MCP & Agentic Mastery** | Rapidly adopted **Model Context Protocol**, **Cline**, and **Aider** to create "Connective Tissue" for private data.                 |
-| **Delivery** | **Grounded Intelligence** | Delivered a secure platform that improved accuracy via a structured feedback loop, replacing hallucinations with grounded responses. |
+### **TATA CONSULTANCY SERVICES**
+
+**Technical Architect / IT Analyst** | Bangalore, India
+*Jul 2010 – Jan 2014*
+
+* Provided architectural leadership for **large-scale Java/J2EE systems**, delivering high-performance solutions for global insurance clients
+* Led design and implementation of **Auto-Enrolment systems**, improving processing efficiency and scalability across enterprise workflows
+
+---
+
+### **MINDTREE LTD**
+
+**Module Lead / Associate Consultant** | Bangalore, India
+*Feb 2007 – Jul 2010*
+
+* Standardized enterprise development through **reusable frameworks**, improving development consistency and accelerating delivery across insurance platforms
+
+---
+
+### **DIMENSIONS**
+
+**Software Engineer** | Thiruvananthapuram, India
+*Dec 2005 – Feb 2007*
+
+* Built a **metadata-driven ERP framework**, reducing customization effort and improving flexibility for mid-scale enterprise deployments
+
+---
+
+## **EDUCATION**
+
+**Master of Science (MS), Software Systems**
+Birla Institute of Technology and Science (BITS), Pilani
+*Thesis: AI-Powered Unified IDE for Enterprise Development*
+
+**Bachelor of Technology (B.Tech), Electronics/Telecommunications**
+Mahatma Gandhi University
+
