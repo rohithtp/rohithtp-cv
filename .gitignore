@@ -1,0 +1,24 @@
+# Ignore Aider-related files
+.aider*
+
+# Ignore safety project config files
+*.safety-project.ini
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Environment / config
+.env
+.env.*
