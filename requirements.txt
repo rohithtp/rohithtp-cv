@@ -1,6 +1,0 @@
-# --- Core Tools ---
-aider-chat
-pipdeptree
-safety
-
-

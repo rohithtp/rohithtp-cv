@@ -8,7 +8,6 @@ echo "------------------------------------------"
 options=("Run Aider (AI Pair Programmer)"
          "View Dependency Tree (pipdeptree)"
          "Scan for Vulnerabilities (Safety)"
-         "Update/Sync Environment"
          "Quit")
 
 select opt in "${options[@]}"
@@ -24,13 +23,9 @@ do
             uvx pipdeptree
             ;;
         "Scan for Vulnerabilities (Safety)")
-            echo "Scanning requirements.txt with Safety..."
-            # Using the new 'scan' command as requested
-            uvx safety scan --file requirements.txt
-            ;;
-        "Update/Sync Environment")
-            echo "Syncing environment with requirements.txt..."
-            uv pip sync requirements.txt
+            echo "Scanning project dependencies with Safety..."
+            # 'scan' auto-detects pyproject.toml / the active environment
+            uvx safety scan
             ;;
         "Quit")
             break
