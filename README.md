@@ -1,5 +1,5 @@
 
-# **Principal Application Engineer | AI Infrastructure & Enterprise Integration**
+# **Technical Architect | AI Infrastructure & Enterprise Integration**
 
 Bengaluru, Karnataka, India
 📧 [rohithtp@gmail.com](mailto:rohithtp@gmail.com) | 🔗 [linkedin.com/in/rohithtp](https://www.linkedin.com/in/rohithtp/) | 📞 9945734341
@@ -8,7 +8,7 @@ Bengaluru, Karnataka, India
 
 ## **TECHNICAL LEADERSHIP PROFILE**
 
-Strategic Technical Leader and Architect with 20+ years of experience building scalable enterprise cloud applications and driving platform transformations.
+Strategic Technical Leader and Architect with 20+ years of experience building scalable enterprise cloud applications and driving platform transformations. Currently serving as Technical Architect at UIDAI, following 12+ years at Oracle architecting AI-driven enterprise platforms.
 
 Expert in **Java/J2EE** and **metadata-driven architectures (Oracle Redwood)**, with a strong focus on **AI infrastructure and agentic development systems**.
 
@@ -50,10 +50,19 @@ Proven track record in delivering **Clean Core-compliant architectures**, buildi
 
 ## **PROFESSIONAL EXPERIENCE**
 
+### **UNIQUE IDENTIFICATION AUTHORITY OF INDIA (UIDAI)**
+
+**Technical Architect** | Full-time
+*Jun 2026 – Present*
+
+* Driving application and domain architecture initiatives, with a focus on system architecture for large-scale identity infrastructure
+
+---
+
 ### **ORACLE**
 
 **Principal Application Engineer** | Bengaluru, India
-*Oct 2020 – Present*
+*Oct 2020 – Apr 2026*
 
 * Accelerated feature delivery by **~25%** by embedding AI agents into enterprise development workflows
 * Enabled **trustworthy, deterministic AI outputs** by grounding responses in verified enterprise data sources
@@ -75,7 +84,7 @@ Proven track record in delivering **Clean Core-compliant architectures**, buildi
 ### **ORACLE**
 
 **Senior Software Engineer** | Bengaluru, India
-*Jan 2014 – Sep 2020*
+*Jan 2014 – Sep 2019*
 
 * Led transition from transactional reporting to **analytical architectures**, reducing data latency by **~72%**
 * Owned critical **cross-product integrations**, maintaining **99.9% uptime** for enterprise data synchronization
