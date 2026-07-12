@@ -2,7 +2,7 @@
 # **Technical Architect | AI Infrastructure & Enterprise Integration**
 
 Bengaluru, Karnataka, India
-📧 [rohithtp@gmail.com](mailto:rohithtp@gmail.com) | 🔗 [linkedin.com/in/rohithtp](https://www.linkedin.com/in/rohithtp/) | 📞 9945734341
+Email: [rohithtp@gmail.com](mailto:rohithtp@gmail.com) | LinkedIn: [linkedin.com/in/rohithtp](https://www.linkedin.com/in/rohithtp/) | Phone: 9945734341
 
 ---
 
