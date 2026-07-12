@@ -128,3 +128,9 @@ Birla Institute of Technology and Science (BITS), Pilani
 **Bachelor of Technology (B.Tech), Electronics/Telecommunications**
 Mahatma Gandhi University
 
+---
+
+## **LEARNING NOTES**
+
+A collection of personal technical notes spanning AI/LLMs, machine learning, system design, Java, Python, DSA, and more: see the [Learning Notes Index](learning/index.md).
+
