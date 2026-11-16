@@ -55,7 +55,10 @@ Proven track record in delivering **Clean Core-compliant architectures**, buildi
 **Technical Architect** | Full-time
 *Jun 2026 – Present*
 
-* Driving application and domain architecture initiatives, with a focus on system architecture for large-scale identity infrastructure
+* Driving application and domain architecture within the Innovation Wing, translating emerging technology PoCs into production-grade identity infrastructure
+* Architecting next-generation verification and authentication capabilities, focusing on offline/edge verification, cryptographic trust, and low-latency distributed systems
+* Designing scalable data and AI pipelines for real-time fraud detection, anomaly analytics, and system observability at national scale
+* Establishing reference architectures, technical governance, and high-scale PoCs bridging emerging technologies with mission-critical Java/microservices platforms
 
 ---
 
